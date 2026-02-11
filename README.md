@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **Remote IT troubleshooting, Windows/macOS support, CTF walkthroughs, or career pivots into security.**
 
-- 📫 How to reach me **kaufmanhdev@protonmail.com**
+- 📫 How to reach me: **kaufmanhdev@protonmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://kaufman.cv](https://kaufman.cv)**
+- 👨‍💻 All of my projects are available at: **[https://kaufman.cv](https://kaufman.cv)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
