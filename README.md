@@ -2,14 +2,13 @@
 
 ### IT Support Engineer | Cybersecurity Enthusiast | CompTIA Path
 
-- 🔭 I'm currently working on **CompTIA Net+ & Sec+ certifications, freelance IT support, and CTF challenges on HackTheBox.
-**
+- 🔭 I'm currently working on **CompTIA Net+ & Sec+ certifications, freelance IT support, and CTF challenges on HackTheBox.**
 
 - 🌱 I'm currently learning **Cloud security (Azure/AWS), Python/Go for automation, Linux systems, Splunk.**
 
 - 👯 I'm looking to collaborate on **Security automation scripts, SOC tools, threat intelligence projects, and DevOps security pipelines on Azure/AWS.**
 
-- 🤝 I'm looking for help with **Breaking into cybersecurity roles and mastering advanced threat hunting techniques.
+- 🤝 I'm looking for help with **Breaking into cybersecurity roles and mastering advanced threat hunting techniques.**
 **
 
 - 💬 Ask me about **Remote IT troubleshooting, Windows/macOS support, CTF walkthroughs, or career pivots into security.**
