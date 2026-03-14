@@ -1,21 +1,24 @@
 # Hi 👋, I'm Herman!
 
-### IT Support Engineer | Cybersecurity Enthusiast | CompTIA Path
+### Business-Educated Analyst | AI & Data Enthusiast | Automation & Compliance
 
-- 🔭 I'm currently working on **CompTIA Net+ & Sec+ certifications, freelance IT support, and CTF challenges on HackTheBox.**
+- 🎓 Business & Management student specializing in Management of Information Systems, with hands-on experience translating operational requirements into analytics, documentation, and process improvements across marketing and IT environments.
 
-- 🌱 I'm currently learning **Cloud security (Azure/AWS), Python/Go for automation, Linux systems, Splunk.**
+- 🤖 Interested in **AI-powered analytics, data science workflows, and automation** for reporting, monitoring, and decision support (from GA4 dashboards to SQL/Python-based analysis and customer churn modeling).
 
-- 👯 I'm looking to collaborate on **Security automation scripts, SOC tools, threat intelligence projects, and DevOps security pipelines on Azure/AWS.**
+- 🛡️ Passionate about **governance, risk, and compliance (GRC)**, including access control, regional ad-tracking/privacy alignment, and documenting controls and data flows so that stakeholders can actually use and audit them.
 
-- 🤝 I'm looking for help with **Breaking into cybersecurity roles and mastering advanced threat hunting techniques.**
-**
+- 🔭 Currently working on **MentionBase (AI brand monitoring), Azure-hosted relational databases, and analytics projects that combine business KPIs with solid data engineering and documentation.**
 
-- 💬 Ask me about **Remote IT troubleshooting, Windows/macOS support, CTF walkthroughs, or career pivots into security.**
+- 🌱 Learning **Power BI, JIRA, ISO 27001, and deeper Python/SQL for analytics, automation, and compliance reporting.**
 
-- 📫 How to reach me: **kaufmanhdev@protonmail.com**
+- 💬 Ask me about **turning messy business requirements into clear dashboards, SOPs, and data pipelines, or about pivoting from IT/generalist work into data/GRC-focused analyst roles.**
 
-- 👨‍💻 All of my projects are available at: **[https://kaufman.cv](https://kaufman.cv)**
+- 📫 How to reach me: **kaufmanhs@proton.me**
+
+- 👨‍💻 Projects & portfolio: **[https://kaufman.cv](https://kaufman.cv)**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
