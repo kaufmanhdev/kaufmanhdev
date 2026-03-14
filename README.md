@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://github.com/kaufmanhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kaufmanhdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/herman-sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herman-sk" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/hermankaufman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hermankaufman" height="30" width="40" /></a>
+<a href="https://kaggle.com/hermankaufman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hermankaufman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
