@@ -4,14 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaufmanhdev&label=Profile views&color=0e75b6&style=flat" alt="kaufmanhdev" /> </p>
 
-- 🔭 I'm currently working on: **Telecom churn analysis in Python (Data Analysis Course Cap-Project), Personal projects related to Data Analysis/Engineering in Power BI, Python, R.
-**
+- 🔭 I'm currently working on: **Telecom churn analysis in Python (Data Analysis Course Cap-Project), Personal projects related to Data Analysis/Engineering in Power BI, Python, R.**
+  
 
-- 🌱 I'm currently learning: **Power BI, JIRA, ISO 27001, advanced SQL/Python/R for automation & analysis, monitoring, compliance
-**
+- 🌱 I'm currently learning: **Power BI, JIRA, ISO 27001, advanced SQL/Python/R for automation & analysis, monitoring, compliance**
 
-- 👯 I'm looking to collaborate on: **Data and BI dashboards, AI-assisted analytics workflows & light GRC/compliance automation (access control, logging, documentation).
-**
+- 👯 I'm looking to collaborate on: **Data and BI dashboards, AI-assisted analytics workflows & light GRC/compliance automation (access control, logging, documentation).**
 
 - 🤝 I'm looking for help with: **Mastering higher‑level statistics, probability, and mathematical modeling to become a stronger Data/GRC specialist over time.​**
 
